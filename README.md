@@ -10,7 +10,7 @@ Esta es una configuración basica para iniciar un proyecto con create-react-app.
 
 ## Instalación del proyecto local:
     npm install
-    yarn add
+    yarn install
 
 ## Una vez haya instaldo las dependencias del proyecto, ejecúte:
     npm start
